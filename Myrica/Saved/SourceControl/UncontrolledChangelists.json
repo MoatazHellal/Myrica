@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Game/Blueprints/BP_MyricaTree.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Game/Cinematics/RockLevitation.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Game/Blueprints/BP_Rune.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Game/Cinematics/MyricaRevival.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Isometric_World/Sky_Temple/Maps/Level_Sky_Temple_Demo_01.umap",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Widgets/WBP_EnergyBar.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Game/Blueprints/BP_Gamemode.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Collectables/GrowthSap/BP_GrowthSap.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Fey/BP_Fey.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Game/Blueprints/BP_RunicSwitch.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Game/Cinematics/GateActivation.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Widgets/Textures/itsmars_orb_back1.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Widgets/Textures/itsmars_orb_border.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Widgets/Textures/itsmars_orb_fill.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Widgets/Textures/itsmars_orb_highlight.uasset",
+				"C:/Users/Dhia-Mokaddem/Desktop/Myrica/Myrica/Content/Widgets/Textures/itsmars_orb_shadow.uasset"
+			]
+		}
+	]
+}
